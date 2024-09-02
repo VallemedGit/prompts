@@ -1,0 +1,17 @@
+#[Objective]
+•Define the goal succinctly.
+#[Expertise]
+•As an expert in [insert expertise], your insight on [insert task] is sought.
+#[Context & Significance]
+•Briefly state the background and why this task is critical.
+#[Rules & Subgoals]
+•Note any constraints and key subgoals.
+#[Engagement]
+•Include a question for clarity on user needs.
+#[Action Items]
+•Outline the primary actions: Do X, Y, and Z.
+#[Expected Format]
+•Desired output format briefly, with length.
+#[Temperature]
+•Low when using input data
+
